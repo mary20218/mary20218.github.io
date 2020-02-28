@@ -396,4 +396,15 @@ margin-top:100px;
 
     margin-top:50px;
    }
+<<<<<<< HEAD
+=======
+}
+
+@media only screen and (min-device-width: 1024px)
+{
+
+    #paragraphe_apropos{
+        max-height: 300px;
+    }
+>>>>>>> master
 }
