@@ -271,6 +271,11 @@ margin-top:100px;
     
 }
 
+#loisirs{
+
+    margin-top:200px;
+}
+
 #logo{
     display: flex;
     min-height: 130px;
@@ -379,7 +384,7 @@ margin-top:100px;
         }
 
         #paragraphe_apropos{
-            height: 350px;
+            height: 150px;
         }
 
         
@@ -414,10 +419,16 @@ margin-top:100px;
 
    #titre_recom{
    margin-bottom: 20px;
+  
    }
    #recommendations{
 
     margin-top:50px;
+   }
+
+   #titre_expe{
+
+    margin-top:120px;
    }
 }
 
