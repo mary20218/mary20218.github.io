@@ -151,7 +151,7 @@ h3{
     margin-right: 10px;
     
 }
- #point, #point2{
+ #point, #point1, #point2, #point3, #point4 {
 
     font-size: 10px;
     
@@ -312,7 +312,7 @@ margin-top:100px;
  /**************************** smartphones**********************/
 
     
-@media only screen and (min-width: 350px)and (max-width: 760px) {
+ @media only screen and (min-width: 350px) and (max-width: 760px) {
    
     
 
@@ -396,7 +396,7 @@ margin-top:100px;
 
 /****************TABLETTES*****************/
 
-  @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
+@media only screen and (device-width) and (device-width) {
     
     
        
@@ -432,8 +432,8 @@ margin-top:100px;
    }
 }
 
-@media only screen and (min-device-width: 1024px)
-{
+@media only screen and (device-width) {
+
 
     #paragraphe_apropos{
         max-height: 300px;
