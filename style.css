@@ -396,7 +396,7 @@ margin-top:100px;
 
 /****************TABLETTES*****************/
 
-@media only screen and (device-width) and (device-width) {
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
     
     
        
